@@ -1,2 +1,3 @@
-# python-modulo-behavior
-Using modulo with a negative number
+# Modulo Behavior in Python
+Using modulo with a negative number  
+[see example](./modulo_example.ipynb)
